@@ -8,6 +8,6 @@ public class JavaMicroservicesSpringboot1Controller {
 
 	@GetMapping("/massage")
 	public String getMessage() {
-		return "Welcome to Subbu - massage - call through the REST API";
+		return "Welcome to Subramanyam Vemala - massage - call through the REST API";
 	}
 }
